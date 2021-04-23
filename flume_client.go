@@ -22,7 +22,7 @@ package flange
 import (
 	"errors"
 	"git.iflytek.com/sqjian/flume"
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"git.iflytek.com/sqjian/thrift"
 	"net"
 	"reflect"
 	"time"
