@@ -20,7 +20,7 @@
 package flange
 
 import (
-	"flume"
+	"git.iflytek.com/sqjian/flume"
 	"strconv"
 	"sync"
 	"sync/atomic"
