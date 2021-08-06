@@ -21,8 +21,8 @@ package flange
 
 import (
 	"errors"
-	"git.iflytek.com/sqjian/flume"
-	"git.iflytek.com/sqjian/thrift"
+	"git.iflytek.com/AIaaS/flume"
+	"git.iflytek.com/AIaaS/thrift"
 	"net"
 	"reflect"
 	"time"
