@@ -21,7 +21,7 @@ package flange
 
 import (
 	"errors"
-	"git.iflytek.com/AIaaS/flume"
+	"github.com/xfyun/flume"
 	"fmt"
 	"io"
 	"io/ioutil"
